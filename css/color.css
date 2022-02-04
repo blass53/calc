@@ -1,5 +1,15 @@
 /* CSS COLOR */
 /* **************************************************************** */
+input{
+    background-color: #dddddd;
+    border: white;
+    color: black;
+}
+.op{
+    background-color: #B4B3B3;
+    border: white;
+    color: black;
+}
 button{
     background-color: #dddddd;
     border: white;
