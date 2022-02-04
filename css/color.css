@@ -15,3 +15,14 @@ button{
     border: white;
     color: black;
 }
+button:hover{
+    background-color: #cccbcb;
+    border: white;
+    color: black;
+}
+
+.op:hover{
+    background-color: #a09e9e;
+    border: white;
+    color: black;
+}

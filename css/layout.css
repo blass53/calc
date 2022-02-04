@@ -5,6 +5,7 @@ input{
     display: flex;
 }
 button{
+    
     display: flex;
     margin: 3px;
     height: 20px;
