@@ -1,6 +1,7 @@
 /* CSS COLOR */
 /* **************************************************************** */
 button{
-    color: #dddddd;
+    background-color: #dddddd;
     border: white;
+    color: black;
 }
